@@ -18,16 +18,9 @@
 ### :camera: Screenshots
 
 <div align="center"> 
- <img src="https://amazone-clone.storage.iran.liara.space/reservation%20mockup.png" />
+ <img src="https://amazone-clone.storage.iran.liara.space/medibot-mock.png" />
 </div>
-<p style="font-size: 0;">&nbsp;</p>
-<div align="center"> 
- <img src="https://amazone-clone.storage.iran.liara.space/reserv-admin-1.jpeg" />
-</div>
-<p style="font-size: 0;">&nbsp;</p>
-<div align="center"> 
- <img src="https://amazone-clone.storage.iran.liara.space/reserve-admin-2.jpeg" />
-</div>
+
 
 
 <!-- TechStack -->
