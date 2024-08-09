@@ -48,16 +48,10 @@
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://www.mongodb.com/">MongoDB</a></li>
+    <li><a href="https://isar.dev/">Isar DataBase</a></li>
   </ul>
 </details>
-<details>
-  <summary>Tools</summary>
-  <ul>
-    <li><a>OTP Authentication</a></li>
-    <li><a>In app purchase</a></li>
-    
-   
-  </ul>
+
+
 
 
