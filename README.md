@@ -40,7 +40,7 @@
   <ul>
     <li><a href="https://nodejs.org/en">Node.js</a></li>
     <li><a href="https://expressjs.com/">Express.js</a></li>
-    <li><a>OTP Auth</a></li>
+    
    
   </ul>
 </details>
@@ -51,5 +51,13 @@
     <li><a href="https://www.mongodb.com/">MongoDB</a></li>
   </ul>
 </details>
+<details>
+  <summary>Tools</summary>
+  <ul>
+    <li><a>OTP Authentication</a></li>
+    <li><a>In app purchase</a></li>
+    
+   
+  </ul>
 
 
