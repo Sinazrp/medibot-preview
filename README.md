@@ -21,6 +21,10 @@
  <img src="https://amazone-clone.storage.iran.liara.space/medibot-mock.png" />
 </div>
 
+## App Downloads
+
+ - [Bazzar](https://cafebazaar.ir/app/com.zp.medibot)
+
 
 
 <!-- TechStack -->
